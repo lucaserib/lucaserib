@@ -15,7 +15,7 @@
 ✒️ Eu gosto de no meu tempo livre Lutar, treinar e ler.
 
 
-### Eu já trabalhei com... 🔧
+### Tech Stack 🔧
 
 **Tecnologias e Ferramentas**
 
