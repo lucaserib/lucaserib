@@ -14,7 +14,6 @@
 
 ✒️ Eu gosto de no meu tempo livre Lutar, treinar e ler.
 
-📚 Lendo: [Livro que está lendo atualmente]
 
 ### Eu já trabalhei com... 🔧
 
