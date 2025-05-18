@@ -9,7 +9,7 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 
-👩‍💻 Atualmente eu trabalho como Desenvolvedor FullStack na empresa de e-commerce PsMóveisOnline.
+👩‍💻 Atualmente eu trabalho como Desenvolvedor Backend no projeto SouJunior.
 
 
 ✒️ Eu gosto de no meu tempo livre Lutar, treinar e ler.
